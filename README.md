@@ -1,4 +1,5 @@
-# BMI-Calculator (Fife College Project)
+# BMI-Calculator
+(Fife College Project 2023-2024)
 
 <img src="https://github.com/gubrus50/BMI-Calculator/blob/main/images/app_overview.png"/>
 
